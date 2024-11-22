@@ -1,0 +1,20 @@
+nav {
+    background-color: #2a75bb; 
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    width: 100%; 
+    box-sizing: border-box; 
+  }
+  
+  nav a {
+    color: #fff; 
+    margin: 0 15px;
+    font-size: 1.2rem;
+    text-transform: uppercase; 
+  }
+  
+  nav a:hover {
+    color: #ffcb05; 
+  }
+  
